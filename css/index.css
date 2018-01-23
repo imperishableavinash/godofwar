@@ -1,0 +1,44 @@
+#head{
+  color: white;
+  text-align: center;
+  font-family: cursive;
+  margin: 20px;
+  z-index: 2;
+}
+
+#index{
+  background: url('https://images.unsplash.com/photo-1500740516770-92bd004b996e?auto=format&fit=crop&w=752&q=80');
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;  
+}
+
+#rules{
+  background: url('https://images.unsplash.com/photo-1500740516770-92bd004b996e?auto=format&fit=crop&w=752&q=80');
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+}
+
+#points{
+  font-size: 20px;
+}
+
+.body{
+margin-top: 5%;
+z-index: 1;
+}
+
+p{
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
+
+#description{
+  margin-top: 45px;
+  padding-top: 45px;
+  color: white;
+  height: 100%;
+}
