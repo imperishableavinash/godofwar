@@ -10,10 +10,19 @@
   background: url('https://images.unsplash.com/photo-1500740516770-92bd004b996e?auto=format&fit=crop&w=752&q=80');
   background-position: center;
   background-size: cover;
+  background-attachment: fixed;
   color: white;  
 }
 
 #rules{
+  background: url('https://images.unsplash.com/photo-1500740516770-92bd004b996e?auto=format&fit=crop&w=752&q=80');
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+}
+
+#baseDesign{
   background: url('https://images.unsplash.com/photo-1500740516770-92bd004b996e?auto=format&fit=crop&w=752&q=80');
   background-position: center;
   background-size: cover;
@@ -26,8 +35,7 @@
 }
 
 .body{
-margin-top: 5%;
-z-index: 1;
+margin-top: 10px;
 }
 
 p{
@@ -36,8 +44,16 @@ p{
 }
 
 #description{
-  margin-top: 45px;
-  padding-top: 45px;
+  margin-top: 10px;
   color: white;
   height: 100%;
+}
+
+.baseDesign{
+  width: 95%;
+  margin-top: 10px;
+}
+
+.designs{
+  margin-top: 50px;
 }
