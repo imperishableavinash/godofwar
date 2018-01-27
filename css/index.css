@@ -1,20 +1,11 @@
-#head{
+#head {
   color: white;
   text-align: center;
   font-family: cursive;
   margin: 20px;
-  z-index: 2;
 }
 
-#index{
-  background: url('https://images.unsplash.com/photo-1500740516770-92bd004b996e?auto=format&fit=crop&w=752&q=80');
-  background-position: center;
-  background-size: cover;
-  background-attachment: fixed;
-  color: white;  
-}
-
-#rules{
+#index {
   background: url('https://images.unsplash.com/photo-1500740516770-92bd004b996e?auto=format&fit=crop&w=752&q=80');
   background-position: center;
   background-size: cover;
@@ -22,7 +13,7 @@
   color: white;
 }
 
-#baseDesign{
+#rules {
   background: url('https://images.unsplash.com/photo-1500740516770-92bd004b996e?auto=format&fit=crop&w=752&q=80');
   background-position: center;
   background-size: cover;
@@ -30,35 +21,51 @@
   color: white;
 }
 
-#points{
+#baseDesign {
+  background: url('https://images.unsplash.com/photo-1500740516770-92bd004b996e?auto=format&fit=crop&w=752&q=80');
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+}
+
+#guide {
+  background: url('https://images.unsplash.com/photo-1500740516770-92bd004b996e?auto=format&fit=crop&w=752&q=80');
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+}
+
+#points {
   font-size: 20px;
 }
 
-.body{
-margin-top: 10px;
+.body {
+  margin-top: 10px;
 }
 
-p{
+p {
   font-family: 'Indie Flower', cursive;
   font-size: 30px;
 }
 
-#description{
+#description {
   margin-top: 10px;
   color: white;
   height: 100%;
 }
 
-.baseDesign{
+.baseDesign {
   width: 95%;
   margin-top: 10px;
 }
 
-.designs{
+.designs {
   margin-top: 50px;
 }
 
-.footer{
+.footer {
   background-color: #565667;
   text-align: center;
 }
