@@ -1,7 +1,7 @@
 #head {
   color: white;
   text-align: center;
-  font-family: cursive;
+  font-family: 'Roboto Slab', serif;
   margin: 20px;
 }
 
@@ -46,7 +46,7 @@
 }
 
 p {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Slabo 27px', serif;
   font-size: 30px;
 }
 
